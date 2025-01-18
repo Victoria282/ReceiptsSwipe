@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReceiptsSwipe</string>
+    <string name="cash_desk_bottom_panel_title">Кассовый чек №%1$s</string>
+    <string name="cash_desk_bottom_panel_description">Потяните вверх для перехода к следующему документу</string>
+    <string name="cash_desk_bottom_panel_finish_message">Отпустите для перехода к следующему документу</string>
+</resources>
